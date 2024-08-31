@@ -1,7 +1,7 @@
 # Sunpump Volume Bot.
 
 ## Getting Started
-- Join our [Discord]((https://discord.gg/aTXpGfzVxt)) for more Info
+- Join PumpX [Discord](https://discord.gg/aTXpGfzVxt) for more Info
 
 ### Prerequisites
 
